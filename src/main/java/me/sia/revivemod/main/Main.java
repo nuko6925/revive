@@ -33,7 +33,7 @@ public class Main {
      */
     @Mod.EventHandler
     public void preinit(FMLPreInitializationEvent event) {
-        System.err.println("test");
+        System.err.println("test2");
     }
 
     /**
