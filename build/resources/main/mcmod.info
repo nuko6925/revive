@@ -1,0 +1,16 @@
+[
+    {
+        "modid": "Main",
+        "name": "Main",
+        "description": "",
+        "version": "1.0-SNAPSHOT",
+        "mcversion": "1.10.2",
+        "url": "",
+        "updateUrl": "",
+        "authorList": ["Niie", "SiA"],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
